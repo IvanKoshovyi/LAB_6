@@ -1,0 +1,4 @@
+Rose 50 FullFresh 20
+Lily 45 OldFresh 25
+Iris 52 MiddleFresh 40
+Iris 35 OldFresh 45
